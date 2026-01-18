@@ -139,7 +139,7 @@ cp rules/1c-rules.md ~/.claude/rules/
 
 ## Происхождение
 
-Адаптация воркфлоу [feature-dev](https://github.com/anthropics/claude-code-plugins/tree/main/plugins/feature-dev) от Anthropic для платформы 1С:Предприятие.
+Адаптация воркфлоу [feature-dev](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/feature-dev) от Anthropic для платформы 1С:Предприятие.
 
 ## Лицензия
 
