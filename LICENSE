@@ -25,5 +25,5 @@ SOFTWARE.
 This project is an adaptation of the original "feature-dev" plugin by Anthropic,
 which is also licensed under the MIT License.
 
-Original work: https://github.com/anthropics/claude-code-plugins/tree/main/plugins/feature-dev
+Original work: https://github.com/anthropics/claude-plugins-official/tree/main/plugins/feature-dev
 Copyright (c) 2024 Anthropic
